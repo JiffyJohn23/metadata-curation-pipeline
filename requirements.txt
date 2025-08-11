@@ -1,0 +1,5 @@
+*(minimal — you can add more based on actual notebook imports)*  
+```txt
+pandas>=1.4.0
+jupyter>=1.0.0
+nbconvert>=6.0.0

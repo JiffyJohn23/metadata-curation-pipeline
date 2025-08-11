@@ -1,0 +1,6 @@
+﻿dataset_id,platform,organism,tissue,tech,pubmed_id,release_date,raw_data_url,celltype,organ,ethnicity,age,sex,species,source,sample_type,file_metadata,assay,protocol,notes,comments,cell_subtype,batch_id,markers
+DS001,Illumina,Homo sapiens,Lung,scRNAseq,12345678,05/01/2021,ftp://ftp.ncbi.nlm.nih.gov/geo/GSE12345,T cell,Lung,Caucasian,35,Male,Homo sapiens,Blood,Biopsy,fastq,RNA-seq,10x Genomics v3,Some notes,Needs review,CD4+,B1,CD3D
+DS002,10X Genomics,Mus musculus,Brain,scrna-seq,23456789,01/12/2020,ftp://ftp.ncbi.nlm.nih.gov/geo/GSE54321,B cell,Brain,Asian,21,Female,Mouse,Tissue,Scrape,bam,ATAC-seq,SmartSeq2,Another note,,CD19+,B2,CD79A
+DS003,Illumina,Homo sapiens,Kidney,bulk RNAseq,34567890,03/03/2019,ftp://ftp.ebi.ac.uk/geo/E-GEOD-1111,Macrophage,Kidney,African,50,Male,Human,Urine,FFPE,bcl,SNARE-seq,NanoDrop,No issues,None,M0,B3,CD68
+DS004,DropSeq,Homo sapiens,Liver,scRNA-seq,45678901,30/11/2020,http://ftp.ncbi.nlm.nih.gov/geo/GSE67890,NK cell,Liver,Hispanic,40,Female,Homo sapiens,Tissue,Biopsy,fastq,RNA-seq,CITE-seq,Check image,Uncertain,NK,B4,NKG7
+DS005,SmartSeq,Mus musculus,Heart,RNA-seq,56789012,15/07/2019,ftp://ftp.ncbi.nlm.nih.gov/geo/E-GEOD-9999,Neutrophil,Heart,Other,18,Male,Mouse,Blood,Sorted cells,sra,ChIP-seq,Truseq,Pending,,Neu,B5,LYZ

@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+env/
+venv/
+.venv/
+
+# OS files
+.DS_Store
+
+# Data (keep only sample data)
+data/*
+!data/sample_metadata.csv

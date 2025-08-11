@@ -1,0 +1,8 @@
+name: metadata-curation
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas>=1.4.0
+  - jupyter
+  - nbconvert
